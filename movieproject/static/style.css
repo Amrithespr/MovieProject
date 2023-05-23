@@ -1,0 +1,23 @@
+body{
+font-size: 150%;
+color:tomato;
+/*background-color:Black;*/
+text-align:center;
+/*font-family: "Impact";
+font-size: 150px;*/
+    }
+
+head{
+text-align:center;
+background-color:Black;
+}
+
+#style{
+ margin: 0;
+  position:relative;
+  top: 50%;
+
+
+  color:white;
+}
+
